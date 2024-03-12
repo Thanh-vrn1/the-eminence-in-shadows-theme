@@ -2,7 +2,7 @@
  * @name Thanh_vrn
  * @author Thanh_vrn
  * @version 1.0
- * @description A theme
+ * @description A theme on shadows
  */
 
 @import url('https://raw.githubusercontent.com/Thanh-vrn1/main-theme/main/main%20theme.css');
@@ -848,7 +848,7 @@
         margin: 0px;
     }
     #app-mount .typeWindows__5fa63:after {
-        content: "Frieren made by Thanh";
+        content: "Shadows made by Thanh";
         color: rgb(255,255,255,0.5);
         font-weight: 500;
 
