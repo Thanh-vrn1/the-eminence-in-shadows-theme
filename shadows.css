@@ -1,3 +1,13 @@
+/**
+ * @name Thanh_vrn
+ * @author Thanh_vrn
+ * @version 1.0
+ * @description A theme with Shadows
+ */
+
+@import url('https://raw.githubusercontent.com/Thanh-vrn1/main-theme/main/main%20theme.css');
+@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+
 :root{
     --background: url('https://github.com/Thanh-vrn1/the-eminence-in-shadows-theme/blob/main/shadow.jpeg?raw=true');
     --activetext-colour: white;
