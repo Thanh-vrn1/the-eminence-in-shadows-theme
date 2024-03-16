@@ -5,9 +5,6 @@
  * @description a theme on shadows
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap');
-@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
-@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
 :root{
     --background: url('https://github.com/Thanh-vrn1/the-eminence-in-shadows-theme/blob/main/john-smith.jpeg?raw=true');
      --activetext-colour: white;
@@ -844,24 +841,5 @@
      #app-mount .contentWrapper__321ed .result_e1fc74[style*="background-color: var(--premium-tier-1"] {background-color: var(--primary3-colour)!important;}
      #app-mount .contentWrapper__321ed .result_e1fc74[style*="background-color: rgb(146, 154, 250);"] {background-color: var(--primary2-colour)!important}
  
- /*TopBar*/
-     #app-mount .typeWindows__5fa63 {
-         background-color: var(--secondary3-colour); 
-         border-bottom: 2px solid var(--primary3-colour); 
-         height: 30px;
-         margin: 0px;
-     }
-     #app-mount .typeWindows__5fa63:after {
-         content: "";
-         color: rgb(255,255,255,0.5);
-         font-weight: 500;
- 
-         position: absolute;
-         top: 8px;
-         left: 43.2%;
-     }
- 
-     #app-mount .wordmark__0d178 {top: 3.3px;}
-     #app-mount .winButton__88672 {top: 2;}
 
 
